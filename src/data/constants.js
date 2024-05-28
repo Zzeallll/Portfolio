@@ -4,11 +4,10 @@ export const Bio = {
     "Engineering Student",
   ],
   description:
-  // I am dedicated to give my best. Eager to bring my ability and creativity to achieve great things together.
-    "I am a fresher in the corporate culture with a zeal for innovation.",
+    "I am a fresher in the corporate culture with a zeal for innovation. With the passion for learning, I am dedicated to give my best. Eager to bring my ability and creativity to achieve great things together.",
   github: "https://github.com/Zzeallll",
   resume:
-    "https://drive.google.com/file/d/1bfpsmdjt8V_8dA1FRsLEIhdYUAX0nyBc/view",
+    "https://i.pinimg.com/736x/81/6c/f7/816cf772f2fc95610d74d4e4e5d99702.jpg",
 };
 <button className="btn btn-primary">Resume</button> 
 export const skills = [
@@ -60,7 +59,6 @@ export const skills = [
         name: "Git",
         image:
         "https://banner2.cleanpng.com/20180425/bxe/kisspng-github-repository-version-control-source-code-network-node-5ae13f80e99f63.3541394415247112969569.jpg"
-          // "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
       },
       {
         name: "GitHub",
@@ -85,7 +83,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    // img: "https://images.app.goo.gl/iQhkucvunXwrZx9Z9",
+    img: "https://mindnovainfotech.com/wp-content/uploads/2024/03/mindnovafull-logo.png",
     role: "Frontend Engineer Intern",
     company: "MindNova Infotech.",
     date: "May 2024",
@@ -96,14 +94,13 @@ export const experiences = [
       "JavaScript",
       "React Js",
     ],
-    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
  ];
 
 export const education = [
   {
     id: 0,
-    // img: "https://photos.app.goo.gl/XLicMU5JPwHYv3Aw6",
+    img: "https://cgpit-bardoli.edu.in/wp-content/uploads/2020/08/CGPIT-Logo-Website.png",
     school: "Chhotubhai Gopalbhai Patel Institute of Technology, Bardoli",
     date: "Oct 2022 - July 2025",
     grade: "7.30 CGPA",
@@ -112,7 +109,7 @@ export const education = [
   },
   {
     id: 1,
-    // img: "https://photos.google.com/photo/AF1QipNXDgpzTUyhhFuxgiQ4M_UIL9SJmayL5eXv2ZtJ",
+    img: "https://cgpit-bardoli.edu.in/wp-content/uploads/2020/08/CGPIT-Logo-Website.png",
     school: "Chhotubhai Gopalbhai Patel Institute of Technology, Bardoli",
     date: "Aug 2019 - July 2022",
     grade: "8.82 CGPA",
@@ -121,7 +118,7 @@ export const education = [
   },
   {
     id: 2,
-    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://sg-res.9appsdownloading.com/sg/res/jpg/c4/22/97fbba8dd1e734719d6e3a1cf61a-emx6.jpg",
     school: "K.B Patel English Medium School, Vyara",
     date: "Apr 2017",
     grade: "67%",
@@ -160,7 +157,7 @@ export const projects = [
       "Redux",
       "NodeMailer",
     ],
-    category: "web app",
+    category: "android app",
     github: "https://github.com/Zzeallll/Zzeallll",
     webapp: "http://endless.horse/",
   },

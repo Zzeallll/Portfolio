@@ -14,7 +14,7 @@ const Projects = ({openModal,setOpenModal}) => {
         <Desc>
           I don't have much project experience but I am hoping to fill this Project Section completely one day.
         </Desc>
-        {/* <ToggleButtonGroup >
+        <ToggleButtonGroup >
           {toggle === 'all' ?
             <ToggleButton active value="all" onClick={() => setToggle('all')}>All</ToggleButton>
             :
@@ -38,7 +38,7 @@ const Projects = ({openModal,setOpenModal}) => {
             :
             <ToggleButton value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
           }
-        </ToggleButtonGroup> */}
+        </ToggleButtonGroup>
         <CardContainer>
           {toggle === 'all' && projects
             .map((project) => (
