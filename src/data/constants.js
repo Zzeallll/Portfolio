@@ -4,6 +4,7 @@ export const Bio = {
     "Engineering Student",
   ],
   description:
+  // I am dedicated to give my best. Eager to bring my ability and creativity to achieve great things together.
     "I am a fresher in the corporate culture with a zeal for innovation. With a passion for learning ",
   github: "https://github.com/Zzeallll",
   resume:
